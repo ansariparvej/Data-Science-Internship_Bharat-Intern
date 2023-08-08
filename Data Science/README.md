@@ -19,8 +19,7 @@ The columns in the dataset are as follows:
     adjClose: The adjusted closing price of ADANIENT's stock, considering factors such as dividends and stock splits.
 
 Dataset : https://finance.yahoo.com/quote/ADANIENT.NS/history/                                                     
-Solution : https://github.com/tushar3364/Bharat-Intern-Taks/blob/main/Task_1%20Stock%20Price%20Prediction%20Using%20LSTM.ipynb
-
+Solution : https://github.com/ansariparvej/Bharat_Internship/blob/main/Data%20Science/Task_1%20Stock%20Price%20Prediction%20Using%20LSTM/Task_1%20Stock%20Price%20Prediction%20Using%20LSTM.ipynb
 ------------------------------------------------------------------------------------------------
 
 # Task 2
@@ -48,8 +47,7 @@ Cabin: Cabin number
 Embarked: Port of embarkation	(C = Cherbourg, Q = Queenstown, S = Southampton)
 
 Dataset : https://www.kaggle.com/datasets/rahulsah06/titanic                                                                                   
-Solution : https://github.com/tushar3364/Bharat-Intern-Taks/blob/main/Task_2%20Titanic%20Classification.ipynb
-
+Solution :https://github.com/ansariparvej/Bharat_Internship/blob/main/Data%20Science/Task_2%20Titanic%20Classification/Task_2%20Titanic%20Classification.ipynb
 ------------------------------------------------------------------------------------------------
 
 # Task 3
@@ -75,4 +73,4 @@ References:
 
 
 Dataset : http://yann.lecun.com/exdb/mnist/                                                                                   
-Solution : https://github.com/tushar3364/Bharat-Intern-Taks/blob/main/Task_2%20Titanic%20Classification.ipynb
+Solution : https://github.com/ansariparvej/Bharat_Internship/blob/main/Data%20Science/Task_3%20Handwritten_digit_recognition/Task_3%20Handwritten_digit_recognition.ipynb
