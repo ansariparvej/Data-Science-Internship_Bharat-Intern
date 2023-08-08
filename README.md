@@ -1,4 +1,4 @@
-# Bharat-Intern-Data_Science-Task
+# Virtual Data Science Internship at Bharat-Intern
 
 # Task 1
 ## Problem statement :
