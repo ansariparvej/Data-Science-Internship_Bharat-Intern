@@ -1,6 +1,6 @@
 # Bharat-Intern---ML
 
-In this repository i completed the tasks that i got in the Machine Learning internship from Bharat Intern.
+The Machine Learning Internship Tasks from Bharat Intern.
 
 **TASK : 1**
 
